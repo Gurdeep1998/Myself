@@ -14,7 +14,7 @@
 | The three Mistakes of my life           | Chetan Bhagat          |
 
 ### *Images of Novels are*
-![Display picture](photos/1.jpeg)![Display picture](photos/2.jpeg)![Display picture](photos/3.jpeg)![Display picture](photos/4.jpeg)
+![Display picture](photos/1.jpg)![Display picture](photos/2.jpg)![Display picture](photos/3.jpg)![Display picture](photos/4.jpg)
 
 
 
